@@ -20,6 +20,6 @@ The first is that I'm very close to my checkride and I needed today to finish th
 
 The second is that I've been at this for over a year and I've been motivated to do a lot of training quickly. Its taken this long because of broken planes and lack of instructor availability. 
 
-The last is that my flight school and the charter service are the same company. Which means that the flight school cancelled my training flight (and others today) to do a charter flight.
+The last is that my flight school and the charter service are the same company. Which means that the flight school chose to cancel my training flight (and others today) to do a charter flight.
 
 I'll be so glad to be finished with this flight school after this upcoming checkride (if it ever happens).
