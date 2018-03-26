@@ -1,10 +1,10 @@
-    ---
-    layout: post
-    title:  "Another Cancelled Flight"
-    date:   2018-03-18 12:00:00
-    categories: Training
-    tags: [Training, Frustration]
-    ---
+---
+layout: post
+title:  "Another Cancelled Flight"
+date:   2018-03-18 12:00:00
+categories: Training
+tags: [Training, Frustration]
+---
 Today was forecast to be the best weather we've had in months. I woke up and checked the METAR and TAFs to find that the forecast was spot on with solid VFR weather.
 
 This is the METAR during my planned flight time:
